@@ -45,7 +45,7 @@ An end-to-end **machine learning project** that predicts eBay product prices usi
 * Predicted vs. actual prices
 * Price distribution by category
 * Rating effects on pricing
-* Interactive **Power BI dashboard** + Python prediction function
+* Interactive: [Power BI dashboard]([https://www.kaggle.com/datasets/topvirus/ebay-scraped-products](https://app.powerbi.com/groups/0527b19b-1bf4-443b-8c4e-1dd4a1c8bd64/reports/c6d60e67-0d0f-4f85-9971-fdb4622dcebe/b332f3698de3b18a4046?bookmarkGuid=a6a45537-6feb-4038-a0d6-c87e527fad19&bookmarkUsage=1&ctid=a86ca211-c918-4c77-8b32-440c27aa3100&portalSessionId=b228c7eb-e39f-4cfb-bc38-f798669679fa&fromEntryPoint=export))
 
 ## Ethics & Fairness
 
