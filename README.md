@@ -2,8 +2,6 @@
 
 An end-to-end **machine learning project** that predicts eBay product prices using a real-world scraped dataset. Built with the **CRISP-DM framework**, this project combines data mining, predictive modeling, and visualization to support smarter pricing strategies for sellers.
 
-Kaggle Dataset: [eBay Scraped Products](https://www.kaggle.com/datasets/topvirus/ebay-scraped-products)
-
 ## Objectives
 
 * Identify key features influencing product prices
@@ -19,7 +17,7 @@ Kaggle Dataset: [eBay Scraped Products](https://www.kaggle.com/datasets/topvirus
 * **Source**: Ethically scraped live eBay listings
 * **Size**: 1,990+ records
 * **Features**: Product name, price, rating, number of ratings, category
-* **Availability**: [Kaggle Dataset](#)
+* **Kaggle Dataset:** [eBay Scraped Products](https://www.kaggle.com/datasets/topvirus/ebay-scraped-products)
 
 ## CRISP-DM Pipeline
 
