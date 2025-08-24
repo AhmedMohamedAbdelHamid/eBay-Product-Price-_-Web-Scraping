@@ -1,4 +1,4 @@
-# eBay-Product-Price-_-Web-Scraping
+# eBay Product Price - Web Scraping
 
 An end-to-end **machine learning project** that predicts eBay product prices using a real-world scraped dataset. Built with the **CRISP-DM framework**, this project combines data mining, predictive modeling, and visualization to support smarter pricing strategies for sellers.
 
